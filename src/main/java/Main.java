@@ -24,6 +24,5 @@ public class Main {
         //userService.updateUser(user);
 
         System.out.print(userService.findUser(26).getAutos() + user.getName());
-
     }
 }
